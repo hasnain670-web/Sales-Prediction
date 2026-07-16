@@ -1,0 +1,27 @@
+# 📈 Sales Prediction
+
+## Overview
+Predict product sales using TV, Radio, and Newspaper advertising budgets.
+
+## Features
+- Machine Learning (Linear Regression)
+- Streamlit Web App
+- Interactive User Inputs
+- Sales Prediction
+- Budget Comparison Chart
+
+## Technologies
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Streamlit
+- Joblib
+
+## Installation
+
+pip install -r requirements.txt
+
+## Run
+
+streamlit run app.py
